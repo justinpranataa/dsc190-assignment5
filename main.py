@@ -1,14 +1,7 @@
-import os
-
-
 def main():
-    x = f"Hello"
-    if x == None:
+    x = "Hello"
+    if x is None:
         print("Hello from dsc190-assignment5!")
-    try:
-        pass
-    except:
-        pass
 
 
 if __name__ == "__main__":
