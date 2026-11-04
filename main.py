@@ -6,3 +6,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+x = 1 + 2
+print(x)
